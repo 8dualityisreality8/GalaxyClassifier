@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+io 
+PIL 
+numpy
+skimage
+matplotlib
+
