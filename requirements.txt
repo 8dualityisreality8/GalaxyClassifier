@@ -1,8 +1,7 @@
 streamlit
 pandas
 requests
-io 
-PIL 
+pillow
 numpy
+scikit-image
 matplotlib
-
