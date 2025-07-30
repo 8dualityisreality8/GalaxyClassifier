@@ -4,6 +4,5 @@ requests
 io 
 PIL 
 numpy
-skimage
 matplotlib
 
